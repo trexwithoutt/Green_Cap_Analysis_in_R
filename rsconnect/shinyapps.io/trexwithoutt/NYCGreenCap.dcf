@@ -1,0 +1,13 @@
+name: NYCGreenCap
+title: NYCGreenCap
+username:
+account: trexwithoutt
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 237257
+bundleId: 1249025
+url: https://trexwithoutt.shinyapps.io/NYCGreenCap/
+when: 1520001180.57609
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 2017-11-03-New York Green Taxi.Rmd|2017-11-03-New_York_Green_Taxi.html
